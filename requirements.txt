@@ -1,0 +1,6 @@
+beautifulsoup4==4.11.1
+pandas==1.4.2
+requests==2.25.1
+sentence_splitter==1.4
+wikipedia==1.4.0
+word2number==1.1
