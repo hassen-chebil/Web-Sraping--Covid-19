@@ -1,22 +1,27 @@
 # Web-scraping
 
-Ce code Python permet d'afficher la situation actuelle de la COVID-19 dans n'importe quel pays du monde en utilisant la technique de web scraping. Les données sont extraites du site web worldometre.
+This Python code allows to display the current situation of COVID-19 in any country of the world using the web scraping technique. The data are extracted from the worldometre website.
 
-# Utilisation
+# Usage
 
-1- Installez les dépendances requises en utilisant pip install -r requirements.txt.
-2- Entrez le nom du pays pour lequel vous souhaitez afficher les informations sur la COVID-19.
+1- Install the required dependencies using pip install -r requirements.txt.
 
-# Technologies utilisées
+2- Enter the name of the country for which you want to display the COVID-19 information.
+
+# Technologies used
 
 Python 3
+
 BeautifulSoup
+
 Requests
 
 # Contact
 
 Hassen Chebil
-[Mon lien](https://www.linkedin.com/in/hassen-chebil-9a6299220/)
 
-chebilhassen7@gmail.com
-LinkedIn Profile
+[LinkedIn Profile](https://www.linkedin.com/in/hassen-chebil-9a6299220/)
+
+[My email address](chebilhassen7@gmail.com)
+
+
