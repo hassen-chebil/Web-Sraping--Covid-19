@@ -22,6 +22,6 @@ Hassen Chebil
 
 - [LinkedIn Profile](https://www.linkedin.com/in/hassen-chebil-9a6299220/)
 
-- [My email address](chebilhassen7@gmail.com)
+- [chebilhassen7@gmail.com](chebilhassen7@gmail.com)
 
 
