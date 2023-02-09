@@ -20,8 +20,8 @@ Requests
 
 Hassen Chebil
 
-- [LinkedIn Profile](https://www.linkedin.com/in/hassen-chebil-9a6299220/)
+- <p> Vous pouvez également me trouver sur <a href="https://www.linkedin.com/in/hassen-chebil-9a6299220/">LinkedIn</a> </p>
 
-- [chebilhassen7@gmail.com](chebilhassen7@gmail.com)
+
 
 
